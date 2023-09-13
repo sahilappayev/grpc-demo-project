@@ -1,0 +1,5 @@
+feign:
+  client:
+    calculate:
+      url: localhost:8081/api/calculate
+

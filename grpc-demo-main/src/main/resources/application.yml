@@ -1,0 +1,9 @@
+server:
+  port: 8081
+
+#grpc:
+#  security:
+#    auth:
+#      enabled:
+#    private-key: privatekey.pem
+#    cert-chain: certchain.pem
