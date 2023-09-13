@@ -1,6 +1,6 @@
 # Spring Boot gRPC Demo Project
 
-### Project consist of two application:
+### The project consists of two applications:
 
 * grpc-demo-main
 * grpc-demo-client
